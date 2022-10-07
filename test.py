@@ -14,5 +14,5 @@ flix_data
 
 flix_data.to_csv('data/flix_data.csv')
 
-with open(cwd + '/testFile_' + nowStr + '.txt', 'w') as f:
+with open(cwd + '/test_' + nowStr + '.txt', 'w') as f:
     f.write(str(flix_data))
