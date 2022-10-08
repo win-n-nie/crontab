@@ -1,0 +1,14 @@
+               provider_name              address1         city  ...           npi address2  provider_note
+0       Beebe Medical Center     424 Savannah Road        Lewes  ...           NaN      NaN            NaN
+1           SAFEWAY PHARMACY       75-971 Henry St  Kailua Kona  ...  1.679704e+09      NaN            NaN
+2           SAFEWAY PHARMACY       4-831 Kuhio HWY        Kapaa  ...  1.033156e+09      NaN            NaN
+3     WALGREENS STORE #02662   12645 S VIRGINIA ST         Reno  ...  1.992711e+09      NaN            NaN
+4       DAY KIMBALL HOSPITAL        320 POMFRET ST       Putnam  ...           NaN      NaN            NaN
+..                       ...                   ...          ...  ...           ...      ...            ...
+995  MENOMINEE TRIBAL CLINIC   W3275 WOLF RIVER RD      Keshena  ...  1.972545e+09      NaN            NaN
+996         SAFEWAY PHARMACY     415 N Main Avenue        Aztec  ...  1.568498e+09      NaN            NaN
+997    COSTCO PHARMACY # 107  5225 COMMERCIAL BLVD       Juneau  ...  1.295068e+09      NaN            NaN
+998   WALGREENS STORE #09538    2275 WASHINGTON ST      Roxbury  ...  1.740385e+09      NaN            NaN
+999      Sams Pharmacy #6204         450 Norman Dr     Valdosta  ...  1.629096e+09      NaN            NaN
+
+[1000 rows x 16 columns]
